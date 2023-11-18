@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is react course to ignite apps",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviPrasad-hub/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ravi Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviPrasad-hub/namaste-react/issues"
+  },
+  "homepage": "https://github.com/RaviPrasad-hub/namaste-react#readme"
+}
