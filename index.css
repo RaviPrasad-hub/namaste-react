@@ -40,3 +40,11 @@
   display: flex;
   flex-wrap: wrap;
 }
+.filter-btn {
+  margin: 10px;
+  padding: 10px;
+}
+.filter-btn:hover {
+  cursor: pointer;
+  border: 1px solid black;
+}
